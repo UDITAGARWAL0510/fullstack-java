@@ -1,0 +1,10 @@
+Learning nano command
+It is used to write multiple lines 
+It opens GNU editor
+Taking Java full Stack Devlopment
+Thank You(XD)
+To exit Press Ctrl+x
+then y
+then again enter
+
+
